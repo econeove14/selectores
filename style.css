@@ -1,0 +1,26 @@
+li {
+    color:pink;
+    font-weight: bolder;
+}
+/* Clase */
+.hello {
+    color:peru;
+}
+ .parrafo{
+     color:peru;
+ }
+
+ /* ID */
+ #name {
+     background-color: yellow;
+ }
+
+ /* Estrella o universal que poco se usa porque reescribe todo */
+
+  * {
+     border: 1px solid lightgray;
+ } 
+ /* ul *{
+     color: red;
+     display: none; 
+ } */
